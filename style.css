@@ -43,8 +43,8 @@ body {
 }
 
 #poster {
-    height; 50%;
-    width: 50%;
+    height; 120%;
+    width: 120%;
     border: 2px solid white;
     float: right;
     margin-right: 20px;
@@ -54,4 +54,12 @@ p {
     margin-top: 50px;
     font-size: 30px;
     position: relative;
+}
+
+
+#bucket {
+    margin-top: 50px;
+    height: 130%;
+    width: 130%;
+    border: 2px solid white;
 }
