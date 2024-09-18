@@ -43,7 +43,7 @@ body {
 }
 
 #poster {
-    height; 120%;
+    height; 0%;
     width: 120%;
     border: 2px solid white;
     float: right;
@@ -62,4 +62,8 @@ p {
     height: 130%;
     width: 130%;
     border: 2px solid white;
+}
+
+.col {
+    margin-top: 50px;
 }
