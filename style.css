@@ -1,6 +1,6 @@
 h1 {
     font-weight: 400;
-    font-size: 120px;
+    font-size: 5vw;
 }
 
 h2 {
@@ -66,4 +66,12 @@ p {
 
 .col {
     margin-top: 50px;
+}
+
+img {
+    border: 2px solid white;
+}
+
+ul {
+    padding-right: 10px;
 }
